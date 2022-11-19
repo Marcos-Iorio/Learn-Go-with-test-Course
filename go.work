@@ -1,0 +1,12 @@
+go 1.19
+
+use (
+	./adder
+	./arrays-and-slices
+	./dictionary
+	./greetings
+	./hello
+	./iteration
+	./perimeter
+	./pointers
+)
